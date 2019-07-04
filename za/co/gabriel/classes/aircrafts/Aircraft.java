@@ -1,4 +1,4 @@
-package za.co.gabriel.classes;
+package za.co.gabriel.classes.aircrafts;
 
 public class Aircraft
 {
@@ -13,25 +13,6 @@ public class Aircraft
         this.name = name;
         this.coordinates = coordinates;
         this.idCounter = idCounter;
-    }
-
-    public long getid()
-    {
-        return this.id;
-    }
-
-    public String getname()
-    {
-        return this.name;
-    }
-    
-    public Coordinates getcoordinates()
-    {
-        return this.coordinates;
-    }
-
-    public long getidCounter()
-    {
-        return this.idCounter;
+        this.id = nextId();
     }
 }

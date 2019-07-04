@@ -1,4 +1,4 @@
-package za.co.gabriel.classes;
+package za.co.gabriel.classes.weather;
 
 public class Coordinates
 {
