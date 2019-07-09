@@ -25,7 +25,7 @@ public class Baloon extends Aircraft {
 				this.coordinates.setHeight(this.coordinates.getHeight() + 2);
 				if (this.coordinates.getHeight() > 100)
 					this.coordinates.setHeight(100);
-				writetofile("Baloon#" + this.name + "(" + this.id + "): Perfect day for flying, I hope you brought some sunschreen.");
+				writetofile("Baloon#" + this.name + "(" + this.id + "): It's too fuckin' hot for this shit.");
 				break;
 			case "RAIN":
 				this.coordinates.setLongitude(this.coordinates.getLongitude() + 5);
@@ -40,7 +40,7 @@ public class Baloon extends Aircraft {
 				writetofile("Baloon#" + this.name + "(" + this.id + "): D-d-d-d-does a-a...... does a-....");
 				break;
 			default:
-			writetofile("Baloon#" + this.name + "(" + this.id + "): Faulty weather tower I guess?");
+				writetofile("Baloon#" + this.name + "(" + this.id + "): Faulty weather tower I guess?");
 				break;
 		}
 	}
