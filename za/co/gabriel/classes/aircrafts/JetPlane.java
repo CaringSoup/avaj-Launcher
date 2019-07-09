@@ -23,23 +23,23 @@ public class jetPlane extends Aircraft {
 				this.coordinates.setHeight(this.coordinates.getHeight() + 2);
 				if (this.coordinates.getHeight() > 100)
 					this.coordinates.setHeight(100);
-				WriteFile.getWriteFile().writetofile("JetPlane#" + this.name + "(" + this.id + "): This is bikini weatherrrrr. - Shortstraw");
+				writetofile("JetPlane#" + this.name + "(" + this.id + "): This is bikini weatherrrrr. - Shortstraw");
 				break;
 			case "RAIN":
 				this.coordinates.setLongitude(this.coordinates.getLongitude() + 5);
-				WriteFile.getWriteFile().writetofile("JetPlane#" + this.name + "(" + this.id + "): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls");
+				writetofile("JetPlane#" + this.name + "(" + this.id + "): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls");
 				break;
 			case "FOG":
 				this.coordinates.setLongitude(this.coordinates.getLongitude() + 1);
-				WriteFile.getWriteFile().writetofile("JetPlane#" + this.name + "(" + this.id + "): I... I don't have a famous song for fog.");
+				writetofile("JetPlane#" + this.name + "(" + this.id + "): I... I don't have a famous song for fog.");
 				break;
 			case "SNOW":
 				this.coordinates.setHeight(this.coordinates.getHeight() - 12);
-				WriteFile.getWriteFile().writetofile("JetPlane#" + this.name + "(" + this.id + "): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers");
-			break;
+				writetofile("JetPlane#" + this.name + "(" + this.id + "): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers");
+				break;
 			default:
-			WriteFile.getWriteFile().writetofile("JetPlane#" + this.name + "(" + this.id + "): Faulty weather tower I guess?");
-			break;
+				writetofile("JetPlane#" + this.name + "(" + this.id + "): Faulty weather tower I guess?");
+				break;
 		}
 	}
 }

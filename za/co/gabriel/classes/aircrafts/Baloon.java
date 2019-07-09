@@ -25,23 +25,23 @@ public class Baloon extends Aircraft {
 				this.coordinates.setHeight(this.coordinates.getHeight() + 2);
 				if (this.coordinates.getHeight() > 100)
 					this.coordinates.setHeight(100);
-				WriteFile.getWriteFile().writetofile("Baloon#" + this.name + "(" + this.id + "): Perfect day for flying, I hope you brought some sunschreen.");
+				writetofile("Baloon#" + this.name + "(" + this.id + "): Perfect day for flying, I hope you brought some sunschreen.");
 				break;
 			case "RAIN":
 				this.coordinates.setLongitude(this.coordinates.getLongitude() + 5);
-				WriteFile.getWriteFile().writetofile("Baloon#" + this.name + "(" + this.id + "): Fuck, these are my new boots!");
+				writetofile("Baloon#" + this.name + "(" + this.id + "): Fuck, these are my new boots!");
 				break;
 			case "FOG":
 				this.coordinates.setLongitude(this.coordinates.getLongitude() + 1);
-				WriteFile.getWriteFile().writetofile("Baloon#" + this.name + "(" + this.id + "): You know last time I tried to catch some fog... but I mist!");
+				writetofile("Baloon#" + this.name + "(" + this.id + "): You know last time I tried to catch some fog... but I mist!");
 				break;
 			case "SNOW":
 				this.coordinates.setHeight(this.coordinates.getHeight() - 12);
-				WriteFile.getWriteFile().writetofile("Baloon#" + this.name + "(" + this.id + "): D-d-d-d-does a-a...... does a-....");
-			break;
+				writetofile("Baloon#" + this.name + "(" + this.id + "): D-d-d-d-does a-a...... does a-....");
+				break;
 			default:
-			WriteFile.getWriteFile().writetofile("Baloon#" + this.name + "(" + this.id + "): Faulty weather tower I guess?");
-			break;
+			writetofile("Baloon#" + this.name + "(" + this.id + "): Faulty weather tower I guess?");
+				break;
 		}
 	}
 }
