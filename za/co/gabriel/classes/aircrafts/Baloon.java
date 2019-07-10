@@ -25,22 +25,22 @@ public class Baloon extends Aircraft {
 				this.coordinates.setHeight(this.coordinates.getHeight() + 2);
 				if (this.coordinates.getHeight() > 100)
 					this.coordinates.setHeight(100);
-				writetofile("Baloon#" + this.name + "(" + this.id + "): It's too fuckin' hot for this shit.");
+				System.out.println("Baloon#" + this.name + "(" + this.id + "): It's too fuckin' hot for this shit.");
 				break;
 			case "RAIN":
 				this.coordinates.setLongitude(this.coordinates.getLongitude() + 5);
-				writetofile("Baloon#" + this.name + "(" + this.id + "): Fuck, these are my new boots!");
+				System.out.println("Baloon#" + this.name + "(" + this.id + "): Fuck, these are my new boots!");
 				break;
 			case "FOG":
 				this.coordinates.setLongitude(this.coordinates.getLongitude() + 1);
-				writetofile("Baloon#" + this.name + "(" + this.id + "): You know last time I tried to catch some fog... but I mist!");
+				System.out.println("Baloon#" + this.name + "(" + this.id + "): You know last time I tried to catch some fog... but I mist!");
 				break;
 			case "SNOW":
 				this.coordinates.setHeight(this.coordinates.getHeight() - 12);
-				writetofile("Baloon#" + this.name + "(" + this.id + "): D-d-d-d-does a-a...... does a-....");
+				System.out.println("Baloon#" + this.name + "(" + this.id + "): D-d-d-d-does a-a...... does a-....");
 				break;
 			default:
-				writetofile("Baloon#" + this.name + "(" + this.id + "): Faulty weather tower I guess?");
+				System.out.println("Baloon#" + this.name + "(" + this.id + "): Faulty weather tower I guess?");
 				break;
 		}
 	}

@@ -4,14 +4,13 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-import com.sun.jndi.url.corbaname.corbanameURLContextFactory;
-
 import javafx.beans.property.FloatPropertyBase;
 import za.co.gabriel.classes.aircrafts.AircraftFactory;
 import za.co.gabriel.classes.weather.WeatherTower;
+import za.co.gabriel.classes.aircrafts.Flyable;
 
-public class Simulator
-{
+public class Simulator {
+    
     public static void main(String[] args) throws exception {
         try {
             BufferedReader reader = new BufferedReader(new FileReader(arg[0]));

@@ -23,22 +23,22 @@ public class Helicopter extends Aircraft {
 				this.coordinates.setHeight(this.coordinates.getHeight() + 2);
 				if (this.coordinates.getHeight() > 100)
 					this.coordinates.setHeight(100);
-				writetofile("Helicopter#" + this.name + "(" + this.id + "): Looks like great weather for flying today son!");
+					System.out.println("Helicopter#" + this.name + "(" + this.id + "): Looks like great weather for flying today son!");
 				break;
 			case "RAIN":
 				this.coordinates.setLongitude(this.coordinates.getLongitude() + 5);
-				writetofile("Helicopter#" + this.name + "(" + this.id + "): I hope you brought a rainjacket... Those doors are for show only.");
+				System.out.println("Helicopter#" + this.name + "(" + this.id + "): I hope you brought a rainjacket... Those doors are for show only.");
 				break;
 			case "FOG":
 				this.coordinates.setLongitude(this.coordinates.getLongitude() + 1);
-				writetofile("Helicopter#" + this.name + "(" + this.id + "): Ohhhhhhhh they said fog not frog... whoops!");
+				System.out.println("Helicopter#" + this.name + "(" + this.id + "): Ohhhhhhhh they said fog not frog... whoops!");
 				break;
 			case "SNOW":
 				this.coordinates.setHeight(this.coordinates.getHeight() - 12);
-				writetofile("Helicopter#" + this.name + "(" + this.id + "): I don't suppose any of you know any Christmas songs?");
+				System.out.println("Helicopter#" + this.name + "(" + this.id + "): I don't suppose any of you know any Christmas songs?");
 				break;
 			default:
-				writetofile("Helicopter#" + this.name + "(" + this.id + "): Faulty weather tower I guess?");
+				System.out.println("Helicopter#" + this.name + "(" + this.id + "): Faulty weather tower I guess?");
 				break;
 		}
 	}
