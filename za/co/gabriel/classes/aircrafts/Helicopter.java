@@ -1,5 +1,6 @@
 package za.co.gabriel.classes.aircrafts;
 
+import za.co.gabriel.classes.weather.Coordinates;
 import za.co.gabriel.classes.weather.WeatherTower;
 import za.co.gabriel.classes.aircrafts.MyLogger;
 

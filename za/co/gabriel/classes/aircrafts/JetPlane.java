@@ -1,12 +1,13 @@
 package za.co.gabriel.classes.aircrafts;
 
+import za.co.gabriel.classes.weather.Coordinates;
 import za.co.gabriel.classes.weather.WeatherTower;
 import za.co.gabriel.classes.aircrafts.MyLogger;
 
-public class jetPlane extends Aircraft implements Flyable {
+public class JetPlane extends Aircraft implements Flyable {
 	private WeatherTower weatherTower;
 
-	jetPlane(String name, Coordinates coordinates) {
+	public JetPlane(String name, Coordinates coordinates) {
 		super (name, coordinates);		
 	}
 	
@@ -36,7 +37,7 @@ public class jetPlane extends Aircraft implements Flyable {
 				break;
 			case "FOG":
 				this.coordinates.setLongitude(this.coordinates.getLongitude() + 1);
-				SMyLogger.getMyLogger().Log("JetPlane#" + this.name + "(" + this.id + "): I... I don't have a famous song for this type of weather.");
+				MyLogger.getMyLogger().Log("JetPlane#" + this.name + "(" + this.id + "): I... I don't have a famous song for this type of weather.");
 				break;
 			case "SNOW":
 				this.coordinates.setHeight(this.coordinates.getHeight() - 12);

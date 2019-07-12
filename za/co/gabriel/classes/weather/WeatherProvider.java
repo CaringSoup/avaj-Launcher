@@ -1,5 +1,7 @@
 package za.co.gabriel.classes.weather;
 
+import java.util.Random;
+
 public class WeatherProvider {
 	private static WeatherProvider weatherProvider = null;
 	private static String[] weather = {"SUN", "RAIN", "FOG", "SNOW"};

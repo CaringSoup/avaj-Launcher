@@ -1,6 +1,9 @@
 package za.co.gabriel.classes.aircrafts;
 
 import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.util.List;
+import java.util.ArrayList;
 
 public final class MyLogger {
     public static MyLogger logger = null;
