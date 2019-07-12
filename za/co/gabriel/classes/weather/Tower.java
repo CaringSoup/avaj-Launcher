@@ -1,6 +1,6 @@
 package za.co.gabriel.classes.weather;
 
-public class Tower {
+public abstract class Tower {
 	private List<Flyable> observers = new ArrayList<Flyable>();
 
 	public void register(Flyable flyable) {

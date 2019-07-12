@@ -2,7 +2,7 @@ package za.co.gabriel.classes.weather;
 
 public class WeatherProvider {
 	private static WeatherProvider weatherProvider = null;
-	private static String[] weather = { "SUN", "RAIN", "FOG", "SNOW"};
+	private static String[] weather = {"SUN", "RAIN", "FOG", "SNOW"};
 
 	private WeatherProvider() {
 	}

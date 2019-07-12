@@ -1,8 +1,8 @@
 package za.co.gabriel.classes.aircrafts;
 
-import javax.lang.model.util.ElementScanner6;
+import za.co.gabriel.classes.Coordinates;
 
-public class AircraftFactory {
+public abstract class AircraftFactory {
 	public static Flyable newAircraft(String type, String name, int longitude, int latitude, int height) {
         Aircraft x = new Aircraft (type, name, new Coordinates(longitude, latitude, height));
         return x;
