@@ -1,8 +1,7 @@
-package za.co.gabriel.classes.aircrafts;
+package com.gabriel.classes.aircraft;
 
-import za.co.gabriel.classes.weather.Coordinates;
-import za.co.gabriel.classes.weather.WeatherTower;
-import za.co.gabriel.classes.aircrafts.MyLogger;
+import com.gabriel.classes.weather.Coordinates;
+import com.gabriel.classes.weather.WeatherTower;
 
 public class Helicopter extends Aircraft implements Flyable {
 	private WeatherTower weatherTower;
@@ -11,24 +10,22 @@ public class Helicopter extends Aircraft implements Flyable {
 		super (name, coordinates);
 	}
 
-	public void updateConditons () {
-		weatherTower.getWeather(coordinates);
-	}
+//	public void updateConditons () {
+//		weatherTower.getWeather(coordinates);
+//	}
 
-	@Override
 	public void registerTower (WeatherTower weatherTower) {
 		this.weatherTower = weatherTower;
+		this.weatherTower.register(this);
+		MyLogger.getMyLogger().Log("Helicopter#" + this.name + "(" + this.id + "): has registered from the tower");
 	}
 
-	@Override
 	public	void	updateConditions() {
 		String weather = this.weatherTower.getWeather(this.coordinates);
 		switch (weather) {
 			case "SUN":
 				this.coordinates.setLongitude(this.coordinates.getLongitude() + 10);
 				this.coordinates.setHeight(this.coordinates.getHeight() + 2);
-				if (this.coordinates.getHeight() > 100)
-					this.coordinates.setHeight(100);
 					MyLogger.getMyLogger().Log("Helicopter#" + this.name + "(" + this.id + "): Looks like great weather for flying today son!");
 				break;
 			case "RAIN":
@@ -46,6 +43,13 @@ public class Helicopter extends Aircraft implements Flyable {
 			default:
 				MyLogger.getMyLogger().Log("Helicopter#" + this.name + "(" + this.id + "): Faulty weather tower I guess?");
 				break;
+		}
+		if (this.coordinates.getHeight() > 100) {
+			this.coordinates.setHeight(100);
+		} else if (coordinates.getHeight() <= 0) {
+			weatherTower.unregister(this);
+			MyLogger.getMyLogger().Log("Helicopter#" + this.name + "(" + this.id + "): has landed");
+			MyLogger.getMyLogger().Log("Helicopter#" + this.name + "(" + this.id + "): has unregistered from the tower");
 		}
 	}
 }

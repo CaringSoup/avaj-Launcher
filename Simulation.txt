@@ -1,0 +1,1740 @@
+Baloon#B1(1): has registered from the tower
+Baloon#B1(1): has registered from the tower
+Baloon#B2(2): has registered from the tower
+JetPlane#J1(3): has registered from the tower
+Helicopter#H1(4): has registered from the tower
+Helicopter#H2(5): has registered from the tower
+Helicopter#H3(6): has registered from the tower
+Baloon#B3(7): has registered from the tower
+JetPlane#J2(8): has registered from the tower
+Helicopter#H4(9): has registered from the tower
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B1(1): has landed
+Baloon#B1(1): has unregistered from the tower
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): has landed
+Helicopter#H2(5): has unregistered from the tower
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+Baloon#B3(7): has landed
+Baloon#B3(7): has unregistered from the tower
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H1(4): has landed
+Helicopter#H1(4): has unregistered from the tower
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Looks like great weather for flying today son!
+
+
+			SIMULATION END
+
+
+Baloon#B1(1): has registered from the tower
+Baloon#B2(2): has registered from the tower
+JetPlane#J1(3): has registered from the tower
+Helicopter#H1(4): has registered from the tower
+Helicopter#H2(5): has registered from the tower
+Helicopter#H3(6): has registered from the tower
+Baloon#B3(7): has registered from the tower
+JetPlane#J2(8): has registered from the tower
+Helicopter#H4(9): has registered from the tower
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H1(4): has landed
+Helicopter#H1(4): has unregistered from the tower
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B1(1): has landed
+Baloon#B1(1): has unregistered from the tower
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): has landed
+Helicopter#H2(5): has unregistered from the tower
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Helicopter#H4(9): has landed
+Helicopter#H4(9): has unregistered from the tower
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+Baloon#B3(7): has landed
+Baloon#B3(7): has unregistered from the tower
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+JetPlane#J1(3): has landed
+JetPlane#J1(3): has unregistered from the tower
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+
+
+			SIMULATION END
+
+
+Baloon#B1(1): has registered from the tower
+Baloon#B2(2): has registered from the tower
+JetPlane#J1(3): has registered from the tower
+Helicopter#H1(4): has registered from the tower
+Helicopter#H2(5): has registered from the tower
+Helicopter#H3(6): has registered from the tower
+Baloon#B3(7): has registered from the tower
+JetPlane#J2(8): has registered from the tower
+Helicopter#H4(9): has registered from the tower
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H1(4): has landed
+Helicopter#H1(4): has unregistered from the tower
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+Baloon#B3(7): has landed
+Baloon#B3(7): has unregistered from the tower
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+JetPlane#J1(3): has landed
+JetPlane#J1(3): has unregistered from the tower
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): has landed
+Baloon#B2(2): has unregistered from the tower
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): has landed
+Helicopter#H2(5): has unregistered from the tower
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B1(1): has landed
+Baloon#B1(1): has unregistered from the tower
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Looks like great weather for flying today son!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Helicopter#H4(9): has landed
+Helicopter#H4(9): has unregistered from the tower
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+
+
+			SIMULATION END
+
+
+
+
+			SIMULATION Start
+
+
+Baloon#B1(1): has registered from the tower
+Baloon#B2(2): has registered from the tower
+JetPlane#J1(3): has registered from the tower
+Helicopter#H1(4): has registered from the tower
+Helicopter#H2(5): has registered from the tower
+Helicopter#H3(6): has registered from the tower
+Baloon#B3(7): has registered from the tower
+JetPlane#J2(8): has registered from the tower
+Helicopter#H4(9): has registered from the tower
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): has landed
+Helicopter#H2(5): has unregistered from the tower
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H1(4): has landed
+Helicopter#H1(4): has unregistered from the tower
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B1(1): has landed
+Baloon#B1(1): has unregistered from the tower
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+Baloon#B3(7): has landed
+Baloon#B3(7): has unregistered from the tower
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+JetPlane#J1(3): has landed
+JetPlane#J1(3): has unregistered from the tower
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): has landed
+Baloon#B2(2): has unregistered from the tower
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Looks like great weather for flying today son!
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+
+
+			SIMULATION END
+
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+			SIMULATION Start
+
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+Baloon#B1(1): has registered from the tower
+Baloon#B2(2): has registered from the tower
+JetPlane#J1(3): has registered from the tower
+Helicopter#H1(4): has registered from the tower
+Helicopter#H2(5): has registered from the tower
+Helicopter#H3(6): has registered from the tower
+Baloon#B3(7): has registered from the tower
+JetPlane#J2(8): has registered from the tower
+Helicopter#H4(9): has registered from the tower
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H1(4): has landed
+Helicopter#H1(4): has unregistered from the tower
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+JetPlane#J1(3): has landed
+JetPlane#J1(3): has unregistered from the tower
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): has landed
+Helicopter#H2(5): has unregistered from the tower
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Helicopter#H4(9): has landed
+Helicopter#H4(9): has unregistered from the tower
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B1(1): has landed
+Baloon#B1(1): has unregistered from the tower
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+Baloon#B3(7): has landed
+Baloon#B3(7): has unregistered from the tower
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+
+
+			SIMULATION END
+
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+			SIMULATION Start
+
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+Baloon#B1(1): has registered from the tower
+Baloon#B2(2): has registered from the tower
+JetPlane#J1(3): has registered from the tower
+Helicopter#H1(4): has registered from the tower
+Helicopter#H2(5): has registered from the tower
+Helicopter#H3(6): has registered from the tower
+Baloon#B3(7): has registered from the tower
+JetPlane#J2(8): has registered from the tower
+Helicopter#H4(9): has registered from the tower
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+JetPlane#J1(3): has landed
+JetPlane#J1(3): has unregistered from the tower
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+Baloon#B3(7): has landed
+Baloon#B3(7): has unregistered from the tower
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B1(1): has landed
+Baloon#B1(1): has unregistered from the tower
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H1(4): has landed
+Helicopter#H1(4): has unregistered from the tower
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): has landed
+Helicopter#H2(5): has unregistered from the tower
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): has landed
+Baloon#B2(2): has unregistered from the tower
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+
+
+			SIMULATION END
+
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+			SIMULATION Start
+
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+Baloon#B1(1): has registered from the tower
+Baloon#B2(2): has registered from the tower
+JetPlane#J1(3): has registered from the tower
+Helicopter#H1(4): has registered from the tower
+Helicopter#H2(5): has registered from the tower
+Helicopter#H3(6): has registered from the tower
+Baloon#B3(7): has registered from the tower
+JetPlane#J2(8): has registered from the tower
+Helicopter#H4(9): has registered from the tower
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B1(1): has landed
+Baloon#B1(1): has unregistered from the tower
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+JetPlane#J1(3): has landed
+JetPlane#J1(3): has unregistered from the tower
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H1(4): has landed
+Helicopter#H1(4): has unregistered from the tower
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+Baloon#B3(7): has landed
+Baloon#B3(7): has unregistered from the tower
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Helicopter#H4(9): has landed
+Helicopter#H4(9): has unregistered from the tower
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): has landed
+Helicopter#H2(5): has unregistered from the tower
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+
+
+			SIMULATION END
+
+
+--------------------
+
+
+			SIMULATION Start
+
+
+--------------------
+Baloon#B1(1): has registered from the tower
+Baloon#B2(2): has registered from the tower
+JetPlane#J1(3): has registered from the tower
+Helicopter#H1(4): has registered from the tower
+Helicopter#H2(5): has registered from the tower
+Helicopter#H3(6): has registered from the tower
+Baloon#B3(7): has registered from the tower
+JetPlane#J2(8): has registered from the tower
+Helicopter#H4(9): has registered from the tower
+Baloon#B1(1): Fuck, these are my new boots!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): It's too fuckin' hot for this shit.
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H1(4): has landed
+Helicopter#H1(4): has unregistered from the tower
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B1(1): has landed
+Baloon#B1(1): has unregistered from the tower
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+JetPlane#J1(3): has landed
+JetPlane#J1(3): has unregistered from the tower
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): has landed
+Helicopter#H2(5): has unregistered from the tower
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Helicopter#H4(9): has landed
+Helicopter#H4(9): has unregistered from the tower
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+Baloon#B3(7): has landed
+Baloon#B3(7): has unregistered from the tower
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+Helicopter#H3(6): Looks like great weather for flying today son!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Baloon#B2(2): It's too fuckin' hot for this shit.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Baloon#B2(2): Fuck, these are my new boots!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+
+
+			SIMULATION END
+
+
+--------------------------------------------------------------------------------
+
+
+			SIMULATION Start
+
+
+--------------------------------------------------------------------------------
+Baloon#B1(1): has registered from the tower
+Baloon#B2(2): has registered from the tower
+JetPlane#J1(3): has registered from the tower
+Helicopter#H1(4): has registered from the tower
+Helicopter#H2(5): has registered from the tower
+Helicopter#H3(6): has registered from the tower
+Baloon#B3(7): has registered from the tower
+JetPlane#J2(8): has registered from the tower
+Helicopter#H4(9): has registered from the tower
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B1(1): You know last time I tried to catch some fog... but I mist!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H1(4): Looks like great weather for flying today son!
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B1(1): D-d-d-d-does a-a...... does a-....
+Baloon#B1(1): has landed
+Baloon#B1(1): has unregistered from the tower
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H1(4): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H1(4): I don't suppose any of you know any Christmas songs?
+Helicopter#H1(4): has landed
+Helicopter#H1(4): has unregistered from the tower
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): It's too fuckin' hot for this shit.
+JetPlane#J1(3): This is bikini weather. - Shortstraw
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H2(5): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): You know last time I tried to catch some fog... but I mist!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): I... I don't have a famous song for this type of weather.
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): Fuck, these are my new boots!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): Looks like great weather for flying today son!
+Baloon#B3(7): It's too fuckin' hot for this shit.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B2(2): Fuck, these are my new boots!
+JetPlane#J1(3): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+JetPlane#J1(3): has landed
+JetPlane#J1(3): has unregistered from the tower
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+Baloon#B3(7): You know last time I tried to catch some fog... but I mist!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): Looks like great weather for flying today son!
+Baloon#B2(2): D-d-d-d-does a-a...... does a-....
+Baloon#B2(2): has landed
+Baloon#B2(2): has unregistered from the tower
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+Baloon#B3(7): D-d-d-d-does a-a...... does a-....
+Baloon#B3(7): has landed
+Baloon#B3(7): has unregistered from the tower
+Helicopter#H4(9): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): Looks like great weather for flying today son!
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H2(5): I don't suppose any of you know any Christmas songs?
+Helicopter#H2(5): has landed
+Helicopter#H2(5): has unregistered from the tower
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I don't suppose any of you know any Christmas songs?
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): This is bikini weather. - Shortstraw
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): Ohhhhhhhh they said fog not frog... whoops!
+JetPlane#J2(8): Deep beneath the cover of another perfect wonder where it's so white as snow. - Red Hot Chillie Peppers
+Helicopter#H4(9): I hope you brought a rainjacket... Those doors are for show only.
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): I... I don't have a famous song for this type of weather.
+Helicopter#H4(9): Ohhhhhhhh they said fog not frog... whoops!
+Helicopter#H3(6): I hope you brought a rainjacket... Those doors are for show only.
+JetPlane#J2(8): IT'S RAINING MEN, HALLELUJAH. - The Weather Girls
+Helicopter#H4(9): Looks like great weather for flying today son!
+
+
+			SIMULATION END
+
+

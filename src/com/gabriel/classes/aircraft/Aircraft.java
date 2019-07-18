@@ -1,6 +1,7 @@
-package za.co.gabriel.classes.aircrafts;
+package com.gabriel.classes.aircraft;
 
-import za.co.gabriel.classes.weather.Coordinates;
+
+import com.gabriel.classes.weather.Coordinates;
 
 public abstract class Aircraft
 {
@@ -16,10 +17,6 @@ public abstract class Aircraft
     }
 
     private long nextId () {
-        return idCounter++;
+        return ++idCounter;
     }
-
-    public Coordinates getCoordinates() {
-		return this.coordinates;
-	}
 }

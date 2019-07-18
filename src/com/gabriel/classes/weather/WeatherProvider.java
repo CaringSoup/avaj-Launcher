@@ -1,25 +1,20 @@
-package za.co.gabriel.classes.weather;
+package com.gabriel.classes.weather;
 
 import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
 
 public class WeatherProvider {
-	private static WeatherProvider weatherProvider = null;
+	private static WeatherProvider weatherProvider = new WeatherProvider();
 	private static String[] weather = {"SUN", "RAIN", "FOG", "SNOW"};
 
 	private WeatherProvider() {
 	}
 	
 	public static WeatherProvider	getProvider() {
-		if (weatherProvider == null) {
-			weatherProvider = new WeatherProvider();
-		}
 		return weatherProvider;
 	}
 	
 	public String	getCurrentWeather(Coordinates coordinates) {
-		Random rand = new Random();
-		int rand_int = 0;
-		rand_int = rand.nextInt(4);
-		return (weather[rand_int]);
+		return (weather[ThreadLocalRandom.current().nextInt(0, weather.length)]);
 	}
 }

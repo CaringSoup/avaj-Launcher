@@ -1,4 +1,4 @@
-package za.co.gabriel.classes.weather;
+package com.gabriel.classes.weather;
 
 public class WeatherTower extends Tower {
 	
@@ -6,6 +6,6 @@ public class WeatherTower extends Tower {
 		return WeatherProvider.getProvider().getCurrentWeather(coordinates);
 	}
 	public void	changeWeather() {
-		this.conditionsChanged();
+		conditionsChanged();
 	}
 }
